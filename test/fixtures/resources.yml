@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  path_id: 
+  start_time: 2014-09-10 15:59:53
+  open_time: 2014-09-10 15:59:53
+  close_time: 2014-09-10 15:59:53
+  created_by_id: 
+  driver_id: 
+
+two:
+  path_id: 
+  start_time: 2014-09-10 15:59:53
+  open_time: 2014-09-10 15:59:53
+  close_time: 2014-09-10 15:59:53
+  created_by_id: 
+  driver_id: 

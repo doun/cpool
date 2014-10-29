@@ -1,0 +1,22 @@
+zh:
+    simple_form:
+        "yes": '是'
+        "no": '否'
+        title: '留言'
+        from: '从'
+        to: '到'
+        required:
+            text: '必填'
+            mark: '*'
+      # You can uncomment the line below if you need to overwrite the whole required html.
+      # When using html, text and mark won't be used.
+      # html: '<abbr title="required">*</abbr>'
+        error_notification:
+            default_message: "发现错误，请检查"
+    # Labels and hints examples
+        placeholders:
+             resource:
+                title: '留言'
+                from: '从'
+                to: '到'
+ 

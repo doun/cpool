@@ -1,0 +1,22 @@
+p#notice= notice
+p
+  strong Path:
+  = @resource.path
+p
+  strong Start time:
+  = @resource.start_time
+p
+  strong Open time:
+  = @resource.open_time
+p
+  strong Close time:
+  = @resource.close_time
+p
+  strong Created by:
+  = @resource.created_by
+p
+  strong Driver:
+  = @resource.driver
+= link_to 'Edit', edit_resource_path(@resource)
+| \
+| \#{link_to 'Back', resources_path}

@@ -1,0 +1,42 @@
+// Place all the styles related to the resources controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+body{
+    padding: 20px;
+}
+.rrow {
+    border-top-style: dotted;
+    div{
+       display: inline-block;
+    }
+}
+.c1,.c2,.c3,.c4 {
+    width: 120px;
+    div {
+        display: block;
+    }
+}
+
+.search {
+    div{
+        display: inline-block;
+    }
+}
+.s1{
+  width: 50px;
+}
+.s2{
+    width: 150px;
+}
+.s3 {
+    width: 400px;
+    display: block;
+    div {
+        display: block;
+    }
+}
+
+.list {
+    border-bottom: dotted;
+}
+
